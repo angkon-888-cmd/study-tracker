@@ -1,2 +1,2 @@
-# routine
-This my my daily routine interactive website
+# study tracker
+This my daily study tracker which will evaluate the preparation for exam
